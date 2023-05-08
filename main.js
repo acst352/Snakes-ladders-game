@@ -8,5 +8,6 @@ let player02 = new Player();
 
 let dice = new Dice();
 
-let board = new board();
+let board = new Board();
+
 console.log(board);
